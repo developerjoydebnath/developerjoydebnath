@@ -1,7 +1,7 @@
 # Hi, I'm Joy Debnath 👋
 **Full Stack Developer (Frontend-Focused)**  
 📍 Dhaka, Bangladesh | 📧 developerjoydebnath@gmail.com | 📞 01980-843712  
-[GitHub](https://github.com/developerjoydebnath) | [Portfolio](https://developerjoydebnath.github.io)
+[GitHub](https://github.com/developerjoydebnath) | [Portfolio](https://joy-debnath.vercel.app)
 
 ---
 
