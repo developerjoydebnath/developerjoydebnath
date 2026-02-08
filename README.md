@@ -79,9 +79,9 @@ To contribute to **real-world projects**, enhance my skills, collaborate with te
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=developerjoydebnath&theme=radical)
+![Joy's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=developerjoydebnath&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerjoydebnath&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=developerjoydebnath&layout=compact&theme=radical&hide=html,css)
 
 ---
 
